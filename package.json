@@ -1,0 +1,18 @@
+{
+  "name": "dev4",
+  "version": "1.0.0",
+  "description": "Paul Brady Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pablobrady/dev4.git"
+  },
+  "author": "Paul Brady",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^1.0.2"
+  }
+}
